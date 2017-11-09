@@ -23,8 +23,8 @@ Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
 Pero de repente apareció un [pony rosa](ponyrosa/ponyrosa.md) acaparando todo el protagonismo.
 
-[Suddenly realized he was far from home
-and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
+Suddenly realized he was far from home
+and doesn't know how to speak [Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
 
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
@@ -95,11 +95,11 @@ accediendo a un [estado de meditación transcendente](transcender/transcender.md
 
 [Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
 
-[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
+[Se dio cuenta de que su táctica había sido descubierta](tactica/tactica.md)
 
-[Enseguida agarró el teléfono y realizó una llamada] (telefono/telefono.md)
+[Enseguida agarró el teléfono y realizó una llamada](telefono/telefono.md)
 
-[La conversacion era irrelevante] (dolor/dolor.md)
+[La conversacion era irrelevante](dolor/dolor.md)
 
 [Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)
 
@@ -149,7 +149,7 @@ Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
 
-Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
+Spiderman al no entender que era lo que [pasaba](realidad/realidad.md)
 
 solo [Escapó](escapo/escapo.md)
 
@@ -157,7 +157,7 @@ Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
 [Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de la ciudad](pasadizo/pasadizo.md)
 
-Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocimiento(desmayo/desmayo.md)
+Recordó algunos crímenes que pesaban sobre él y de la nada [perdió el conocimiento](desmayo/desmayo.md)
 
 Revelo que venia del futuro y que le daba dos opciones: 
 - [Morir luchando como sabia que pasaria en el futuro](time/time.md)
